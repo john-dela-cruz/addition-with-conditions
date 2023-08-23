@@ -1,0 +1,15 @@
+D:\John\Programming\C#\Addition-with-Conditions\bin\Debug\net7.0\Addition-with-Conditions.exe
+D:\John\Programming\C#\Addition-with-Conditions\bin\Debug\net7.0\Addition-with-Conditions.deps.json
+D:\John\Programming\C#\Addition-with-Conditions\bin\Debug\net7.0\Addition-with-Conditions.runtimeconfig.json
+D:\John\Programming\C#\Addition-with-Conditions\bin\Debug\net7.0\Addition-with-Conditions.dll
+D:\John\Programming\C#\Addition-with-Conditions\bin\Debug\net7.0\Addition-with-Conditions.pdb
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.csproj.AssemblyReference.cache
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.AssemblyInfoInputs.cache
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.AssemblyInfo.cs
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.csproj.CoreCompileInputs.cache
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.dll
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\refint\Addition-with-Conditions.dll
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.pdb
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\Addition-with-Conditions.genruntimeconfig.cache
+D:\John\Programming\C#\Addition-with-Conditions\obj\Debug\net7.0\ref\Addition-with-Conditions.dll

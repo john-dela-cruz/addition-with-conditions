@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Addition-with-Conditions/1.0.0": {
+        "runtime": {
+          "Addition-with-Conditions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Addition-with-Conditions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
